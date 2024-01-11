@@ -11,7 +11,7 @@ This Python script serves as a conversational assistant for Dungeon Masters (DMs
 ## Usage
 1. Clone or download the repository.
 2. Create a `.env` file using the command: `echo OPENAI_API_KEY=your_api_key > .env` (replace `your_api_key` with your actual OpenAI API key).
-3. Run the script using the command: `python script_name.py`
+3. Run the script using the command: `python EscudoGPT.py`
 
 ## Troubleshooting
 If you encounter any issues, consider the following steps:
